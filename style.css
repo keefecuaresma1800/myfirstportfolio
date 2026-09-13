@@ -1,0 +1,197 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    font-size: 70px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 120px;
+    margin: 10px 0;
+
+}
+.script-title {
+    color: purple;
+    font-size: 60px;
+    font-style: italic;
+    margin-top: -30px;
+    margin-left: 230px;
+}
+.social-bar {
+    background-color: #f5e8cf;
+    color: black;
+    padding: 20px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section-title {
+    font-size: 45px;
+    margin-top: 80px;
+}
+.hobbies p {
+    font-size: 24px;
+    margin: 15px 0;
+}
+.hobbies {
+    margin-top: 30px;
+}
+.hobbies p {
+    color: white;
+    letter-spacing: 2px;
+}
+.intro {
+    font-size: 20px;
+    max-width: 600px;
+    line-height:1.5;
+}
+.social-bar {
+    padding: 25px 30px;
+}
+.social-bar span {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+body {
+    max-width: 1200px;
+}
+.hobbies p {
+    font-weight: bold;
+}
+h1 {
+    letter-spacing: 4px;
+}
+h2 {
+    font-weight: 900;
+}
+.script-title {
+    color: #8b5cf6
+}
+.social-bar {
+    width:100%;
+    box-sizing: border-box;
+}
+.section-title {
+    border-left: 6px solid #8b5cf6
+    padding-left: 15px;
+}
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1 {
+    position: relative;
+    top: 50px;
+}
+h2 {
+    margin-bottom: 0;
+}
+.script-title {
+    position: relative;
+    top: -10px;
+}
+.iuntro {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.social-bar {
+    min-height: 60px;
+}
+.section-title {
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.hobbies {
+    max-width: 700px;
+}
+
+.hobbies p {
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+}
+
+.hobbies p:hover {
+    color: #8b5cf6
+}
+.social-bar span {
+    font-weight: bold;
+}
+.social-bar {
+    border-radius: 4px;
+}
+
+.social-bar span {
+    padding: 0 10px;
+}
+.hobbies p {
+    font-size: 26px;
+}
+.hobbies p {
+    line-height: 1.2;
+}
+h2 {
+    padding-bottom: 10px;
+}
+html {
+    background-color: black;
+}
+.intro {
+    opacity: 0.8;
+}
+.script-title {
+    font-weight: bold;
+}
+.section-title {
+    margin-bottom: 40px;
+}
+.social-bar {
+    align-items: center;
+}
+.about h2 span {
+    color: #8b5cf6
+}
+.motto span {
+    color: #8b5cf6;
+}
+.find-me .contact h2 span {
+    color: #8b5cf6;
+}
+.find-me {
+    display: flex;
+}
+.find-me > div {
+    flex: 1;
+}
+.find-me {
+    gap: 50px;
+}
+.find-me h2 {
+    font-size: 40px;
+}
+.find-me p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+.find-me {
+    margin-top: 100px;
+}
+.find-me h2 {
+    line-height: 1.1;
+}
+.contact p {
+    margin: 12px 0;
+}
+.curious p,
+.enough p {
+    margin-top: 20px;
+}
+.curious p,
+.enough p {
+    opacity: 0.75;
+}
